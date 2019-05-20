@@ -13,6 +13,6 @@ printf("positive");
 }
 else
 {
-printf("negative")
+printf("negative");
 }
 }
